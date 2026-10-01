@@ -1,2 +1,2 @@
 
-    alert("new  test !");
+    alert("test 2 !");
